@@ -4,6 +4,7 @@ npm install -D path
 npm start
 
 Lucas
+Connor
 
 TO DO:
 1. one person forks the branch
